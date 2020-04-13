@@ -1,0 +1,37 @@
+Funcionalidades del programa:
+	*crearCentroComcercial:
+		- Entradas: Recibe las dimensiones de la matriz para reservar la cantidad de memoria necesario.
+		- Salidas: Regresa el puntero de la matriz.
+		- Conceptos: Memoria dinámica, ciclos y condicionales.
+	*ingresarNuevoLocal:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma. 
+		- Salidas: Al ser un void no regresa nada, pero crea un nuevo local con cada una de sus características.
+		- Conceptos: Ciclos, condicionales, structs, paso por parámetro de referencia, enum. 
+	*crearIdLocal:
+		- Entradas: Recibe las dimensiones de la matriz.
+		- Salidas: Retorno el valor del ID calculado a través de fibonacci.
+		- Conceptos: Revursividad. 
+	*mostrarCentro:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma. 
+		- Salidas: No retorna nada, pero muestra las características de todos los locales. 
+		- Conceptos: Ciclos anidados, paso de parámetros por referencia.
+	*mostrarCategorias:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma.
+		- Salidas: No retorna nada, pero muestra los locales según la categoría que tienen.
+		- Conceptos: Ciclos anidados, enums, condicionales, paso de parámetros por referencia. 
+	*mostrarLocal:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma.
+		- Salidas: No retorna nada, pero muestra las caracterísiticas de un local buscado por nombre o ID. 
+		- Conceptos: Condicionales, ciclos anidados, paso de parámetros por referencia.
+	*modificarLocal:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma.
+		- Salidas: No retorna nada, pero realiza las modificaciones en los locales a los locales que el usuario desea.
+		- Conceptos: Condicionales, ciclos anidados, structs, paso de parámetros por referencia. 
+	*eliminarLocal:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma.
+		- Salidas: No retorna nada, pero elimina todos los archivos que el usuario quiera.
+		- Conceptos: Condicionales, ciclos anidados, structs, paso de parámetros por referencia.
+	*buscarLocalPrecio:
+		- Entradas: Recibe el puntero de la matriz y las dimensiones de la misma.
+		- Salidas: No retorna nada, pero encuentra el local con el precio más elevado.
+		- Conceptos: Condicionales, ciclos anidados, structs, paso de parámetros por referencia.

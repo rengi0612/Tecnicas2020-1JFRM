@@ -1,0 +1,26 @@
+Ejemplo Merge Sort:
+	En las guerras, nos podemos encontrar momentos épicos en donde la estrategia venció a la fuerza, 
+	utilizando métodos como el divide y conquistarás, para poder vencer enemigos que aunque son más fuertes,
+	pueden verse confundidos y ser finalmente derrotados. De alguna forma, el merge sort es ese método de divide 
+	y conquistarás en donde el enemigo es algo que necesitas ordenar pero quieres hacerlo de una forma más rápida,
+	por lo tanto divides todo lo que tienes en mitades una y otra vez hasta que lo que vez son pequeños grupos fáciles de 
+	derrotar u ordenar. 
+
+	Ventajas:
+		* Método de ordenamiento estable.
+		* Muy efectivo con arreglos, listas y vectores, debido a que se puede acceder a ellos. 
+		* Es más eficiente manejando medios secuenciales de acceso lento. 
+		* Es ideal para ordenar listas enlazadas debido a que estas no permiten el acceso aleatorio a sus elementos.
+	Desventajas: 
+		* Al ser recursivo, su implementación no recursiva necesitaría de una pila en dónde se ocuparía más memoria.
+
+Ejemplo Incersión: 
+	Cuando somos de esas personas amantes del orden en extremo y deseamos ordenar todos los frascos de la cocina y si somos amantes de cocinar segurantemente tendremos un frasco para qcada especia y condimiento que vayamos a usar y estos frascos también son de diferentes tamaños. Si deseamos ordenarlos desde el más pequeño al más grande es natural y fácil pensar en organizarlos de izquiera a derecha, buscando que el frasco en donde vamos organizando sea mayor que todos los que tiene a su izquiera hasta llegar al último frasco que quedará de primero o de último dependeniendo de su tamaño, así estaremos seguro de que todos los frascos ocuparon el espacio correcto.
+
+	Ventajas:
+		* La simplicidad de implementación
+		* La poca memoria que utiliza
+	Desventajas:
+		* No es apto para ordenar grandes cantidades de elementos. 
+		
+

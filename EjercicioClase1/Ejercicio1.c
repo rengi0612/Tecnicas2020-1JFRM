@@ -1,5 +1,9 @@
 #include "Ejercicio1.h"
 
+/* Bn por lo de la memoria dinámica. A mejorar la mayuscula sostenida para definir
+los enums 
+En general el codigo esta bn ordenado*/
+
 struct Persona ** reservarMemoria(int fil, int col){
 	int i;
 	struct Persona** pGente = malloc(fil*sizeof(struct Persona*));

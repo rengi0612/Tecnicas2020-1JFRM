@@ -1,0 +1,79 @@
+Para n = 10
+Comienzo : Thu May  7 14:26:04 2020
+Final : Thu May  7 14:26:04 2020
+Tiempo de ejecución : 0.000007 / Comparaciones : 45 / Intercambios : 8
+
+Para n = 100
+Comienzo : Thu May  7 14:26:18 2020
+Final : Thu May  7 14:26:18 2020
+Tiempo de ejecución : 0.000073 / Comparaciones : 4950 / Intercambios : 86
+
+Para n = 1000
+Comienzo : Thu May  7 14:26:36 2020
+Final : Thu May  7 14:26:36 2020
+Tiempo de ejecución : 0.003732 / Comparaciones : 499500 / Intercambios : 903
+
+Para n = 10000
+Comienzo : Thu May  7 14:26:50 2020
+Final : Thu May  7 14:26:50 2020
+Tiempo de ejecución : 0.145743 / Comparaciones : 49995000 / Intercambios : 9107
+
+Para n = 1000000
+Comienzo : Thu May  7 14:28:17 2020
+Final : Thu May  7 14:51:14 2020
+Tiempo de ejecución : 1377.223976 / Comparaciones : 499999500000 / Intercambios : 909229
+
+Pruebas con correción de código:
+
+Para n = 10
+Comienzo : Thu May  7 15:07:53 2020
+Final : Thu May  7 15:07:53 2020
+Tiempo de ejecución : 0.000007 / Comparaciones : 45 / Intercambios : 5
+
+Para n = 100
+Comienzo : Thu May  7 15:12:25 2020
+Final : Thu May  7 15:12:25 2020
+Tiempo de ejecución : 0.000052 / Comparaciones : 4950 / Intercambios : 93
+
+Para n = 1000
+Comienzo : Thu May  7 15:19:07 2020
+Final : Thu May  7 15:19:07 2020
+Tiempo de ejecución : 0.004595 / Comparaciones : 499500 / Intercambios : 917
+
+Para n = 10000
+Comienzo : Thu May  7 15:22:50 2020
+Final : Thu May  7 15:22:50 2020
+Tiempo de ejecución : 0.144745 / Comparaciones : 49995000 / Intercambios : 9103
+
+Para n = 1000000
+Comienzo : Thu May  7 16:04:59 2020
+Final : Thu May  7 16:28:13 2020
+Tiempo de ejecución : 1392.862578 / Comparaciones : 499999500000 / Intercambios : 909558
+
+Prueba con los arreglos ya ordenados:
+
+Para n = 10
+Comienzo : Thu May  7 17:48:27 2020
+Final : Thu May  7 17:48:27 2020
+Tiempo de ejecución : 0.000005 / Comparaciones : 45 / Intercambios : 0
+
+Para n = 100
+Comienzo : Thu May  7 17:49:02 2020
+Final : Thu May  7 17:49:02 2020
+Tiempo de ejecución : 0.000060 / Comparaciones : 4950 / Intercambios : 0
+
+Para n = 1000
+Comienzo : Thu May  7 17:49:30 2020
+Final : Thu May  7 17:49:30 2020
+Tiempo de ejecución : 0.003432 / Comparaciones : 499500 / Intercambios : 0
+
+Para n = 10000
+Comienzo : Thu May  7 17:51:43 2020
+Final : Thu May  7 17:51:43 2020
+Tiempo de ejecución : 0.147471 / Comparaciones : 49995000 / Intercambios : 0
+
+Para n = 1000000
+Comienzo : Thu May  7 18:17:06 2020
+Final : Thu May  7 18:40:22 2020
+Tiempo de ejecución : 1394.928083 / Comparaciones : 499999500000 / Intercambios : 0
+
